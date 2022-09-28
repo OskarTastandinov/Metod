@@ -1,7 +1,7 @@
 public class Main {
     static int year = 2100;
     public static void main(String[] args){
-        System.out.println("Задание 1");
+        System.out.println("Задание 1.0");
         checkingYear();
         System.out.println("Задание 2");
         enterPhoneParameters(0, 2014);
